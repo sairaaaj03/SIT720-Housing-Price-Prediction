@@ -5,7 +5,7 @@ This project predicts housing sale prices in Manly, Bankstown and Parramatta usi
 ## Project Files
 
 - `housing data.csv` - collected housing dataset
-- `housing_project.ipynb` - data cleaning, analysis and model development
+- `housing.ipynb` - data cleaning, analysis and model development
 - `app.py` - Streamlit web application
 - `housing_model.pkl` - trained Random Forest model
 - `model_columns.pkl` - model feature columns
